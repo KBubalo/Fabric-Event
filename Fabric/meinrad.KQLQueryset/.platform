@@ -1,0 +1,12 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "KQLQueryset",
+    "displayName": "meinrad",
+    "description": "meinrad"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "80df6916-7537-4d34-bfb8-a567911cd0e6"
+  }
+}

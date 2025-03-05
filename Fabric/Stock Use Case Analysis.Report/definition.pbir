@@ -1,0 +1,9 @@
+{
+  "version": "4.0",
+  "datasetReference": {
+    "byPath": {
+      "path": "../Stock Use Case Analysis.SemanticModel"
+    },
+    "byConnection": null
+  }
+}
